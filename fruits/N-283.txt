@@ -1,0 +1,15 @@
+pear
+peach
+pear
+coconut
+pear
+peach
+apple
+apple
+pear
+coconut
+banana
+banana
+peach
+banana
+pear
